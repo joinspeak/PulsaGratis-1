@@ -13,13 +13,13 @@ echo "\033[32;1m=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
 toilet -f standard -F gay "PULSAGRATIS"
 echo "\033[31;1m=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*"
 echo ""
-echo "Author : " Mr.TamfanX / MrUncle"
-" Team : " MRTAMFANX CYBER TEAM"
+echo "Author : " Mr.ZIBZIB / MrJoy"
+" Team : " MRZIBZIB CYBER TEAM"
 echo " Kontak Me : " 085779515200"
 " Pesan : "Jangan Di Salah Gunakan Dan Disebar :) Karena Nanti Dosa Tanggung Sendiri:)"
 sleep 1
 echo "ThanksTo:"
-echo "Allmember MRTAMFANX CYBER TEAM"
+echo "Allmember MRTZIBZIB CYBER TEAM"
 echo "\033[32;1m=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*"
 echo ""
 sleep 3
@@ -103,7 +103,7 @@ echo "Pesan:Jika Script Ini Tidak Berfungsi Pada Anda Berarti Ada Kesalahan Dala
 sleep 3
 echo "TerimaKasih Untuk Yang Memakai Script Ini"
 sleep 2
-echo "ThanksTo:MrUncle - MrTamfanX - Owl Cyber Team"
+echo "ThanksTo:MrJoy - MrZibzib - Owl Cyber Team"
 sleep 2
 sleep 4
 exit
